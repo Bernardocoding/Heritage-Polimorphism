@@ -1,0 +1,3 @@
+/home/bernardo/PDS2/exer_prova2/ex_herança/build/CMakeFiles/my_program.dir
+/home/bernardo/PDS2/exer_prova2/ex_herança/build/CMakeFiles/edit_cache.dir
+/home/bernardo/PDS2/exer_prova2/ex_herança/build/CMakeFiles/rebuild_cache.dir

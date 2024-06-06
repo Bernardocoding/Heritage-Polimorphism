@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_program.dir/caminhao.cpp.o CMakeFiles/my_program.dir/main.cpp.o CMakeFiles/my_program.dir/van.cpp.o CMakeFiles/my_program.dir/veiculo.cpp.o -o my_program 
